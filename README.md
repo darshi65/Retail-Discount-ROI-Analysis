@@ -28,7 +28,7 @@ Analysis of whether discounting is growing profitable volume or simply eroding m
 1. **Cleaning** — checked for duplicates, nulls, and invalid values (0 duplicates, 0 nulls, no negative/zero sales rows found); confirmed data was clean enough to proceed without row removal.
 2. **Feature engineering** — created `Profit Margin`, `Discount Bucket`, `Is Unprofitable` flag, and date fields.
 3. **Exploratory analysis** — tested the discount-margin relationship at the bucket and exact-discount level, checked sub-category and regional breakdowns, and tested the discount-vs-order-volume correlation.
-4. **Dashboard** — built a star-schema-style model in Power BI with a dedicated `Dim_Date` table and DAX measures using **dollar-weighted margin** (`Total Profit / Total Sales`) rather than a simple average of per-order margins, to avoid the distortion that occurs when small orders skew an unweighted average.
+4. **Dashboard** — built a star-schema-style model in Power BI with a dedicated `date_dim` table and DAX measures using **dollar-weighted margin** (`Total Profit / Total Sales`) rather than a simple average of per-order margins, to avoid the distortion that occurs when small orders skew an unweighted average.
 5. **Recommendation** — quantified the dollar impact of capping discounts above the identified breakeven point.
 
 ## Key Findings
