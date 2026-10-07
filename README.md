@@ -47,10 +47,11 @@ Cap discounts at approximately 20% for margin-sensitive sub-categories (particul
 
 ## Dashboard
 
-![Executive Summary](images/dashboard_page1.png)
-![Discount Deep Dive](images/dashboard_page2.png)
+Executive Summary
+(images/Executive-summary.png)
+Discount Deep Dive
+(images/Discount-Deep-Dive.png)
 
-*(Power BI dashboard — 2 pages: Executive Summary with regional/category breakdowns and quarterly trend; Discount Deep Dive with breakeven analysis and an action-priority table.)*
 
 ## Repository Structure
 
