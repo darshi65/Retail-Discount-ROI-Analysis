@@ -48,9 +48,7 @@ Cap discounts at approximately 20% for margin-sensitive sub-categories (particul
 ## Dashboard
 
 <img width="1318" height="756" alt="Executive summary" src="https://github.com/user-attachments/assets/16a53033-5401-4527-b0fc-31737b529fc9" />
-
-([images/Discount-Deep-Dive.png])
-
+<img width="1316" height="752" alt="Discount Deep Dive" src="https://github.com/user-attachments/assets/50e6ad7f-a365-4be0-ab61-832e1dfe6850" />
 
 ## Repository Structure
 
