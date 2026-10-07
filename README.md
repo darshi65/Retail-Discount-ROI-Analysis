@@ -47,10 +47,9 @@ Cap discounts at approximately 20% for margin-sensitive sub-categories (particul
 
 ## Dashboard
 
-Executive Summary
-([images/Executive-summary.png](https://github.com/darshi65/Retail-Discount-ROI-Analysis/blob/eda1d0dead3e51cd07496db59f1e6bf4e2ac780e/images/Discount-Deep-Dive))
-Discount Deep Dive
-(images/Discount-Deep-Dive.png)
+([images/Executive-summary.png])
+
+([images/Discount-Deep-Dive.png])
 
 
 ## Repository Structure
